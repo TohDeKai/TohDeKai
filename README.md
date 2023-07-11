@@ -9,4 +9,3 @@ Junior at the National University of Singapore as of academic year 23/24 - Alway
 
 ---
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=tohdekai&show_icons=true&count_private=true)
