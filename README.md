@@ -1,6 +1,6 @@
 ### 😎 Hello World 
 
-Sophomore at the National University of Singapore as of academic year 22/23 - Always looking for a fun project to work on
+Junior at the National University of Singapore as of academic year 23/24 - Always looking for a fun project to work on
 <br>
 <img src="https://media1.giphy.com/media/TiOJrWSTSNj2BxBE0M/giphy.gif?cid=ecf05e475uycga4kyxtfukkg6k4ywm5puypghe444fffwx0p&rid=giphy.gif&ct=s" width="200">
 
