@@ -1,4 +1,4 @@
-### 😎 Hello World 
+### Hello World 😎
 
 Junior at the National University of Singapore as of academic year 23/24 - Always looking for a fun project to work on
 <br>
