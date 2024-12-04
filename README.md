@@ -15,13 +15,17 @@ I'm currently working on **[AutoClub](https://www.autoclub.sg/)**, a platform de
 ## 💼 Previous Roles
 I’ve had the opportunity to contribute to various exciting projects in different roles. Here's a snapshot of my experience:
 
-- Software Engineer @ **NUS Fintech Society**
-- UI/UX Designer @ **Lexly Tech** (formerly Calibrate)
+### Professional Experience
 - Software Engineer Intern @ **Kovalee**
 - Software Engineer Intern @ **GovTech**
 - Web Developer @ **NUS IDS**
 - Project Management Intern @ **Zalora**
 - Product Development Intern @ **Skilio**
+- UI/UX Designer @ **Lexly Tech** (formerly Calibrate)
+
+### University Experience
+- Software Engineer @ **NUS Fintech Society**
+- Developer @ **EWIT**
 - Operations Executive @ **NUS Entrepreneurship Society**
 - Publicity IC @ **Eusoff HRB**
 
