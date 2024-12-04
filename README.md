@@ -1,11 +1,27 @@
-### Hello World 😎
+# Hi, I'm De Kai 👋
 
-Junior at the National University of Singapore as of academic year 23/24 - Always looking for a fun project to work on
-<br>
-<img src="https://media1.giphy.com/media/TiOJrWSTSNj2BxBE0M/giphy.gif?cid=ecf05e475uycga4kyxtfukkg6k4ywm5puypghe444fffwx0p&rid=giphy.gif&ct=s" width="200">
+Welcome to my GitHub! I'm a passionate **Software Engineer** with a strong background in **UI/UX Design**. I have a keen interest in **graphic design** and **illustrations**, and I love creating media assets as a side hustle 🎨💻.
 
-[![Linkedin: tohdekai](https://img.shields.io/badge/-tohdekai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tohdekai/)](https://www.linkedin.com/in/tohdekai/)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=[https://www.tohdekai.com/](https://tohdekai.com/))](https://tohdekai.com/)
+Feel free to explore my repositories and projects, and let's connect!  
+[LinkedIn](https://www.linkedin.com/in/tohdekai/) • [Website](https://tohdekai.com/) • [Email](mailto:tohdekai@outlook.com)
 
 ---
+
+## 🚀 Current Project
+I'm currently working on **[AutoClub](https://www.autoclub.sg/)**, a platform designed to streamline vehicle maintenance. This project was awarded the **NUS VIP $10K Award**!
+
+---
+
+## 💼 Previous Roles
+I’ve had the opportunity to contribute to various exciting projects in different roles. Here's a snapshot of my experience:
+
+- Software Engineer** @ **NUS Fintech Society**
+- UI/UX Designer** @ **Lexly Tech** (formerly Calibrate)
+- Software Engineer Intern** @ **Kovalee**
+- Software Engineer Intern** @ **GovTech**
+- Web Developer** @ **NUS IDS**
+- Project Management Intern** @ **Zalora**
+- Product Development Intern** @ **Skilio**
+- Operations Executive** @ **NUS Entrepreneurship Society**
+- Publicity IC** @ **Eusoff HRB**
 
