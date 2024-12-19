@@ -19,6 +19,9 @@ I’ve had the opportunity to contribute to various exciting projects in differe
 - Software Engineer Intern @ **Kovalee**
 - Software Engineer Intern @ **GovTech**
 - Web Developer @ **NUS IDS**
+- Python Coding Instructor @ **Code In The Community**
+- Code Instructor @ **A Posteriori**
+
 - Project Management Intern @ **Zalora**
 - Product Development Intern @ **Skilio**
 - UI/UX Designer @ **Lexly Tech** (formerly Calibrate)
