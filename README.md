@@ -1,4 +1,4 @@
-# Hi, I'm De Kai 👋
+# Hi, I'm Kai 👋
 
 Welcome to my GitHub! I'm a passionate **Software Engineer** with a strong background in **UI/UX Design**. I have a keen interest in **graphic design** and **illustrations**, and I love creating new things.
 
@@ -9,5 +9,4 @@ Feel free to explore my repositories and projects, and let's connect!
 
 ## 🚀 Current Project
 Currently focusing on picking up speed at my new role
----
 
